@@ -1,0 +1,3 @@
+warcprox==2.1b1.dev87
+chromote==0.3.0
+requests==2.17.3
